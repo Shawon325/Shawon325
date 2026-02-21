@@ -11,10 +11,13 @@ Hi, I'm [Md Shahidul Bhuiyan](https://shawon325.github.io/), a Full Stack Develo
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
-- 📖 Open-Source enthusiast
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning / Exploring DevOps, GoLang and System Design; 
-- 💬 Ask me about anything, I am happy to help;
+- 🚀 Passionate about building scalable and reliable software
+- 📖 Open-source enthusiast and continuous learner
+- 👨🏽‍💻 Currently working on exciting projects
+- 🌱 Exploring DevOps, Golang, Cloud, and System Design
+- 🛠️ Interested in backend development, automation, and infrastructure
+- 💬 Ask me about web development, backend, or DevOps
+- 🤝 Always open to learning, collaboration, and interesting ideas
 - 📫 How to reach me: [@shawon](mailto:mdshahidul3244@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.);
 
 **Languages and Tools:**  
