@@ -8,7 +8,7 @@
 
 Hi, I'm [Md Shahidul Bhuiyan](https://shawon325.github.io/), a Full Stack Developer 🚀 from Bangladesh. Beside's programming, I enjoy traveling.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
   
 **Talking about Personal Stuffs:**
 - 🚀 Passionate about building scalable and reliable software
